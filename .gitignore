@@ -1,0 +1,8 @@
+node_modules
+dist
+.vscode
+.DS_Store
+.env
+/*.tgz
+/mocked_node_modules
+/*.zip
