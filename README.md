@@ -80,4 +80,4 @@ npm run build-storybook
 🌐 Live Demo
 
 🔗 **View on GitHub Pages:**
-https://Ram-Charan-Tej-V.github.io/calendar-view-assignment/
+[https://Ram-Charan-Tej-V.github.io/calendar-view-assignment/](https://ram-charan-tej-v.github.io/calendar-view-assignment/)
